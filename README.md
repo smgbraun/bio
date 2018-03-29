@@ -1,2 +1,2 @@
 #bio
-thisd is my bio
+this is my bio
